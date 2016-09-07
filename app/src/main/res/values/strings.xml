@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WhatsMyName</string>
+    <string name="show">Show!</string>
+    <string name="your_name_is">Your name is</string>
 </resources>
